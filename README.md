@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome to my profile 😊
 
-<!--
-**Sofispam/Sofispam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pamela Sofia Assis Pereira 
 
-Here are some ideas to get you started:
+- Atualmente estou no meu ultimo ano do ensino médio, fazendo os projetos do [Alura](https://www.alura.com.br)
+- Estou começando a aprender a usar a plataforma de programação JavaScript
+- Vou estar utilizando este espaço para lançar os projetos necessários que vou estar desenvolvendo.
+- Meus pronomes são: Ele/Dele e Ela/Dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se quiserem entrar em contato comigo vou deixar meu email e meu Facebook aqui 📧
+
+Email: 00001097832521sp@al.educacao.sp.gov.br  
+
+Facebook: pamelasofia.assispereira
+
+![](https://media1.tenor.com/m/Zmo_l827E1oAAAAd/project-sekai-cinnamoroll.gif)
